@@ -1,0 +1,22 @@
+name: sedinet
+channels:
+  - conda
+  - defaults
+dependencies:  
+  - python
+  - ipython
+  - numpy
+  - scipy
+  - matplotlib
+  - h5py
+  - keras
+  - pandas
+  - pip
+  - scikit-learn
+  - requests
+  - tensorflow
+  - jupyter
+  - ipywidgets
+  - pip:
+    - panel
+    - Image
